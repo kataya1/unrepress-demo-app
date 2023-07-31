@@ -1,3 +1,3 @@
 # unrepress-demo-app"
 
-app using the [unrepress](npmjs.com/package/unrepress) library
+app using the [unrepress](https://www.npmjs.com/package/unrepress) library
